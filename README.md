@@ -1,4 +1,4 @@
-# Note Taking Web App
+# LetsNote: Note Taking Web App
 
 This is a Note Taking Web App built with FastAPI, a modern, fast (high-performance) web framework for building APIs with Python, and MongoDB Atlas, a fully-managed cloud database service.
 
